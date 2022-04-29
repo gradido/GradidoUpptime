@@ -40,19 +40,19 @@
     "url": "https://gdd.gradido.net",
     "icon": "https://favicons.githubusercontent.com/gdd.gradido.net",
     "slug": "site-gradido",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 438,
-    "timeDay": 459,
-    "timeWeek": 438,
-    "timeMonth": 438,
-    "timeYear": 438,
+    "status": "up",
+    "uptime": "99.48%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.48%",
+    "time": 428,
+    "timeDay": 418,
+    "timeWeek": 428,
+    "timeMonth": 428,
+    "timeYear": 428,
     "dailyMinutesDown": {
-      "2022-04-29": 0
+      "2022-04-29": 26
     }
   }
 ]
