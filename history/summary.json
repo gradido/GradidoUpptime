@@ -4,7 +4,7 @@
     "url": "https://stage1.gradido.net",
     "icon": "https://favicons.githubusercontent.com/stage1.gradido.net",
     "slug": "stage1-test1-site-gradido",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 482,
     "timeMonth": 434,
     "timeYear": 432,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-31": 0
+    }
   },
   {
     "name": "Stage2 Test2 Site Gradido",
