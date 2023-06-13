@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage1.gradido.net.ico",
     "slug": "stage1-test1-site-gradido",
     "status": "up",
-    "uptime": "95.82%",
+    "uptime": "95.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.42%",
+    "uptimeYear": "98.70%",
     "time": 452,
-    "timeDay": 380,
-    "timeWeek": 429,
-    "timeMonth": 422,
+    "timeDay": 482,
+    "timeWeek": 416,
+    "timeMonth": 425,
     "timeYear": 455,
     "dailyMinutesDown": {
       "2023-03-02": 117,
@@ -24,8 +24,7 @@
       "2022-06-28": 28,
       "2022-06-16": 899,
       "2022-06-15": 1440,
-      "2022-06-14": 1440,
-      "2022-06-13": 1440
+      "2022-06-14": 1440
     }
   },
   {
@@ -40,9 +39,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 450,
-    "timeDay": 363,
-    "timeWeek": 429,
-    "timeMonth": 427,
+    "timeDay": 499,
+    "timeWeek": 418,
+    "timeMonth": 431,
     "timeYear": 454,
     "dailyMinutesDown": {
       "2023-04-06": 938,
@@ -62,9 +61,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 447,
-    "timeDay": 357,
-    "timeWeek": 424,
-    "timeMonth": 424,
+    "timeDay": 480,
+    "timeWeek": 415,
+    "timeMonth": 427,
     "timeYear": 451,
     "dailyMinutesDown": {
       "2023-01-25": 21,
